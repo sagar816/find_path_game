@@ -1,16 +1,9 @@
-# find_path_game
+# find_path_game - Maze Runner Flutter Game
 
-A new Flutter project.
+This is a game where user can drag throught the highly complex path to reach its destination.
 
-## Getting Started
+The number of rows and columns of the path can be changed to increase or decrease the complexity.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![Maze](https://github.com/sagar816/find_path_game/assets/78189906/03fcda1b-0328-44d5-b2a5-ca3a6eafb6cd)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
